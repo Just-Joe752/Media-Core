@@ -1,2 +1,2 @@
 # MediocreSoundDesigner
-A basic and simple audio editing tool
+A functionally simple audio editing tool
